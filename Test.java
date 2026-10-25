@@ -51,7 +51,7 @@ public class Test {
     }
 
     public static void main(String[] args) throws Exception {
-        Path path = Path.of("D:\\перенести\\java\\11.txt"); 
+        Path path = Path.of("11.txt"); 
         List<Student> students = loadStudents(path);
 
         System.out.println("Студентов: " + students.size());
