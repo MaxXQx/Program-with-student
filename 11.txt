@@ -1,0 +1,20 @@
+Student: Ivan
+Book: Book1; Author1; 2018; 120
+Book: Book2; Author2; 2019; 210
+Book: Book3; Author3; 2020; 340
+Book: Book4; Author4; 2021; 280
+Book: Book5; Author5; 2022; 500
+
+Student: Petr
+Book: CleanCode; Robert C. Martin; 2008; 256
+Book: EffectiveJava; Joshua Bloch; 2018; 416
+Book: JavaConcurrency; Brian Goetz; 2006; 320
+Book: DesignPatterns; GoF; 1994; 395
+Book: Refactoring; Martin Fowler; 1999; 450
+
+Student: Max
+Book: Clean Architecture; Robert C. Martin; 2017; 432
+Book: Head First Design Patterns; Elisabeth Freeman; 2004; 352
+Book: Domain-Driven Design; Eric Evans; 2003; 560
+Book: The Pragmatic Programmer; Andrew Hunt; 1999; 352
+Book: Refactoring to Patterns; Joshua Kerievsky; 2011; 304
